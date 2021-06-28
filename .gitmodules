@@ -7,3 +7,6 @@
 [submodule "python-exceptions"]
 	path = python-exceptions
 	url = https://github.com/kwright-ciat/python-exceptions
+[submodule "python-requests"]
+	path = python-requests
+	url = https://github.com/kwright-ciat/python-requests
