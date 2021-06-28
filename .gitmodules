@@ -1,0 +1,3 @@
+[submodule "python-basics"]
+	path = python-basics
+	url = https://github.com/kwright-ciat/python-basics
