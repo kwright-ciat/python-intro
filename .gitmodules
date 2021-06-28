@@ -4,3 +4,6 @@
 [submodule "python-functions"]
 	path = python-functions
 	url = https://github.com/kwright-ciat/python-functions
+[submodule "python-exceptions"]
+	path = python-exceptions
+	url = https://github.com/kwright-ciat/python-exceptions
